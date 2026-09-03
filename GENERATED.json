@@ -2,7 +2,7 @@
   "generated": true,
   "doNotHandEdit": true,
   "canonicalSourceRepo": "https://github.com/Ecocitizenz/eczid-agent-plugins",
-  "canonicalSourceCommit": "ea0f04a4aa3d9f7b77753cd5d9380d34cbc2d374",
+  "canonicalSourceCommit": "11ffd8ff2cb5a4d17b6aeee1ae91487da1ae7e03",
   "generationCommand": "npm run gemini",
   "distributionRepo": "https://github.com/Ecocitizenz/eczid-machine-trust-gemini",
   "note": "Generated output of the ECZ-ID Plugin Foundry. Not a source of truth. Edits here are overwritten by the next generation."

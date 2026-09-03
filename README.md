@@ -3,7 +3,7 @@
 > **GENERATED — DO NOT HAND EDIT**
 >
 > - Canonical source repo: https://github.com/Ecocitizenz/eczid-agent-plugins
-> - Canonical source commit: ea0f04a4aa3d9f7b77753cd5d9380d34cbc2d374
+> - Canonical source commit: 11ffd8ff2cb5a4d17b6aeee1ae91487da1ae7e03
 > - Generation command: npm run gemini (in the canonical source repo)
 >
 > Every file in this repository is written by the ECZ-ID Plugin Foundry from the canonical
