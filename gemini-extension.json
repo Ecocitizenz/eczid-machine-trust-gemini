@@ -1,0 +1,16 @@
+{
+  "name": "eczid-machine-trust",
+  "version": "0.1.1",
+  "description": "ECZ-ID Machine Trust plugins: local-first, read-only evidence reviews and Resolver posture checks for MCP servers, agents, APIs, SBOM / CRA and DORA. Free agent plugins, MIT-licensed, no purchase required. No account. No source upload. No telemetry.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "ecz-id-verifier": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@ecocitizenz/ecz-id-mcp-verifier@0.9.0",
+        "ecz-id-mcp-server"
+      ]
+    }
+  }
+}
