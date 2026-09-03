@@ -3,7 +3,7 @@
 > **GENERATED — DO NOT HAND EDIT**
 >
 > - Canonical source repo: https://github.com/Ecocitizenz/eczid-agent-plugins
-> - Canonical source commit: 11ffd8ff2cb5a4d17b6aeee1ae91487da1ae7e03
+> - Canonical source commit: ef25dbc35b02f85450d9d675ed096d4154d0437f
 > - Generation command: npm run gemini (in the canonical source repo)
 >
 > Every file in this repository is written by the ECZ-ID Plugin Foundry from the canonical
@@ -43,6 +43,19 @@ Gemini CLI reads `gemini-extension.json` at the root of this repository and auto
 - No numeric safety, security or trust score. Results use evidence, ReasonCodes and Review Priority (LOW / NORMAL / ELEVATED / HIGH) with the reasons shown.
 - Absence of public Resolver proof does not mean a target is unsafe. Local policy decides. Re-check before reliance.
 - Local-first and privacy-first: reviews read filenames and paths in the workspace you point them at. No source, prompt, secret or tool payload is uploaded. No telemetry. Credential-shaped values are never displayed or recorded, only key names.
+
+## Support, privacy and terms
+
+This extension aggregates six plugins, and each keeps its own pages:
+
+| Skill | Support | Privacy | Terms |
+|---|---|---|---|
+| `ecz-id-verify` | [support](https://developers.ecocitizenz.com/plugins/mcp-verifier/support/) | [privacy](https://developers.ecocitizenz.com/plugins/mcp-verifier/privacy/) | [terms](https://developers.ecocitizenz.com/plugins/mcp-verifier/terms/) |
+| `mcp-trust-review` | [support](https://developers.ecocitizenz.com/plugins/mcp-trust/support/) | [privacy](https://developers.ecocitizenz.com/plugins/mcp-trust/privacy/) | [terms](https://developers.ecocitizenz.com/plugins/mcp-trust/terms/) |
+| `agent-trust-review` | [support](https://developers.ecocitizenz.com/plugins/agent-trust/support/) | [privacy](https://developers.ecocitizenz.com/plugins/agent-trust/privacy/) | [terms](https://developers.ecocitizenz.com/plugins/agent-trust/terms/) |
+| `sbom-cra-evidence-review` | [support](https://developers.ecocitizenz.com/plugins/sbom-cra-readiness/support/) | [privacy](https://developers.ecocitizenz.com/plugins/sbom-cra-readiness/privacy/) | [terms](https://developers.ecocitizenz.com/plugins/sbom-cra-readiness/terms/) |
+| `api-trust-review` | [support](https://developers.ecocitizenz.com/plugins/api-trust/support/) | [privacy](https://developers.ecocitizenz.com/plugins/api-trust/privacy/) | [terms](https://developers.ecocitizenz.com/plugins/api-trust/terms/) |
+| `dora-evidence-review` | [support](https://developers.ecocitizenz.com/plugins/dora-readiness/support/) | [privacy](https://developers.ecocitizenz.com/plugins/dora-readiness/privacy/) | [terms](https://developers.ecocitizenz.com/plugins/dora-readiness/terms/) |
 
 ## Other hosts
 
